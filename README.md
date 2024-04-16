@@ -1,6 +1,6 @@
 # FASDD: An Open-access 100,000-level Flame And Smoke Detection Dataset for Deep Learning in Fire Detection	
 
-[Ming Wang](https://github.com/OyamingO), Peng Yue*, Liangcun Jiang*, Dayu Yu, Tianyu Tuo
+[Ming Wang](https://github.com/OyamingO), Peng Yue*, Liangcun Jiang*, Dayu Yu, Tianyu Tuo, Jian Li
 
 [[`Paper`](https://doi.org/10.57760/sciencedb.j00104.00103)] [[`Project`](https://github.com/OyamingO/Fire-And-Smoke-Detection-Dataset)] [[`Dataset`](https://doi.org/10.57760/sciencedb.j00104.00103)] [[`BibTeX`](#Citing-FASDD)]
 
