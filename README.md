@@ -41,14 +41,20 @@ pip install opencv-python pycocotools matplotlib
 
 ## Citing FASDD
 
-If you use FASDD in your research, please use the following BibTeX entry.
+If you use FASDD in your research, please cite the following article:
 
-```
-@article{FASDD,
-  title={FASDD: An Open-access 100,000-level Flame And Smoke Detection Dataset for Deep Learning in Fire Detection},
-  author={Ming Wang, Peng Yue, Liangcun Jiang, Dayu Yu, Tianyu Tuo, Jian Li},
-  journal={Scientific Data},
-  year={2024}
+```bibtex
+@article{wang2025open,
+  title={An open flame and smoke detection dataset for deep learning in remote sensing based fire detection},
+  author={Wang, Ming and Yue, Peng and Jiang, Liangcun and Yu, Dayu and Tuo, Tianyu and Li, Jian},
+  journal={Geo-spatial Information Science},
+  volume={28},
+  number={2},
+  pages={511--526},
+  year={2025},
+  publisher={Taylor \& Francis},
+  doi={10.1080/10095020.2024.2347922},
+  url={https://doi.org/10.1080/10095020.2024.2347922}
 }
 
 ```
